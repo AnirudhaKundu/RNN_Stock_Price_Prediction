@@ -32,5 +32,5 @@ Historical stock market data from 2006–2018.
 
 \## Author
 
-Anirudha Kundu
+Group 2
 
